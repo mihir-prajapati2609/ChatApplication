@@ -1,0 +1,13 @@
+{
+  "UnsendChatMessages": [],
+  "UnsendGroupChatMessages": [],
+  "UnsendChatAckNotification": [
+    {
+      "UserId": 7048,
+      "MessageIds": [
+        "P7047704820220601123948294",
+        "P7047704820220601124013910"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "UnsendChatMessages": [],
+  "UnsendGroupChatMessages": [],
+  "UnsendChatAckNotification": [
+    {
+      "UserId": 0,
+      "MessageIds": [
+
+      ]
+    }
+  ]
+}

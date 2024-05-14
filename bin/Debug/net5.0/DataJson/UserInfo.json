@@ -1,0 +1,31 @@
+{
+  "Users": [
+    {
+      "UserId": 7047,
+      "UserChatId": [
+        "P60397047",
+        "P70477048"
+      ],
+      "GroupIds": [],
+      "BlockedUserChatId": []
+    },
+    {
+      "UserId": 6039,
+      "UserChatId": [
+        "P60397047",
+        "P60397048"
+      ],
+      "GroupIds": [],
+      "BlockedUserChatId": []
+    },
+    {
+      "UserId": 7048,
+      "UserChatId": [
+        "P70477048",
+        "P60397048"
+      ],
+      "GroupIds": [],
+      "BlockedUserChatId": []
+    }
+  ]
+}
